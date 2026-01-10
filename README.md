@@ -36,7 +36,6 @@ git clone <your-repo-url>
 cd <repo-folder>
 
 
----
 2. Create and activate a virtual environment
 
 python -m venv .venv
@@ -60,7 +59,6 @@ GOOGLE_GEMINI_API=your_api_key_here
 streamlit run app.py
 
 ---
-
 📝 Usage
 
 Open the app in your browser (Streamlit will provide the URL).
@@ -71,7 +69,12 @@ The AI responds in real-time using Google Gemini.
 
 All messages are displayed in order in the chat history.
 
----
+🖼️ Screenshot / Demo
+
+Here’s how the chatbot looks:
+
+Make sure the image is in your repo folder (e.g., assets/chat_demo.png).
+Leave one blank line above and below the image for proper formatting.
 
 💡 Notes
 
